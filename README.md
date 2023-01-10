@@ -10,4 +10,4 @@
 * Compared to experimental methods, computational methods are time efficient and can analyze the protein interactions with less equipment. Furthermore, with the recent development of technology, protein sequence information can be obtained easily
 >Our Website
 * https://cppi.onrender.com/
- ## Credits [EngMohamadIdrees](https://github.com/EngMohamadIdrees) -[Tarek Idrees](https://github.com/TarekIdrees) - [Mohamed Mahmoud](https://github.com/Thesnak)
+ ## Credits [EngMohamadIdrees](https://github.com/EngMohamadIdrees) -[Tarek Idrees](https://github.com/TarekIdrees) - [Mohamed Mahmoud](https://github.com/Thesnak)-[Eng Hasnaa Ali] (https://github.com/Hasnaa40)
